@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lostnalina/lostnalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on Python and Gazebo<br>🤝 I’m looking for help with Ardupilot<br>🌱 I’m currently learning Ros and Gazebo<br>
 
