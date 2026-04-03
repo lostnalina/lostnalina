@@ -1,8 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Eda 👋
 
-# 💫 About Me:
-🔭 I’m currently working on Python and Gazebo<br>🤝 I’m looking for help with Ardupilot<br>🌱 I’m currently learning Ros and Gazebo<br>
+### Computer Science Graduate | Backend Developer
+Focusing on building robust backend systems with **Java** and the **Spring Ecosystem**.
 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### 🚀 Current Focus
+- 💻 Developing scalable backend applications using **Spring Boot**.
+- 🛠 Strengthening core software principles (**SOLID, Design Patterns**).
+- 🧠 Solving complex algorithmic problems on **LeetCode** to enhance logic.
+- 📖 Preparing for professional technical examinations.
+
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+</p>
