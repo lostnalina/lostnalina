@@ -1,18 +1,19 @@
 # Hi there, I'm Eda 👋
 
 ### Computer Science Graduate | Backend Developer
-Focusing on building robust backend systems with **Java** and the **Spring Ecosystem**.
+Focusing on building robust backend systems with **Java**, **C#**, and the **Spring Ecosystem**.
 
 ---
 
 ### 🚀 Current Focus
-- 💻 Developing scalable backend applications using **Spring Boot**.
+- 💻 Developing scalable backend applications using **Spring Boot** and **.NET Core**.
 - 🛠 Strengthening core software principles (**SOLID, Design Patterns**).
 - 🧠 Solving complex algorithmic problems on **LeetCode** to enhance logic.
 - 📖 Preparing for professional technical examinations.
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
